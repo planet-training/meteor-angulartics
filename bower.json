@@ -1,0 +1,19 @@
+{
+  "name": "meteor- angulartics",
+  "version": "0.0.1",
+  "authors": [
+    "support@planet.training"
+  ],
+  "license": "private",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angulartics": "0.17.2"
+  }
+}
